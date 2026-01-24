@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "comparator")(type "KiCad")(uri "${KIPRJMOD}/libs/LM339DR/LM339DR.kicad_sym")(options "")(descr ""))
+  (lib (name "header")(type "KiCad")(uri "${KIPRJMOD}/libs/Basys 3 headers/header.kicad_sym")(options "")(descr ""))
+  (lib (name "BNC")(type "KiCad")(uri "${KIPRJMOD}/libs/BNC/SMA-TH_BNC-KWE-18.kicad_sym")(options "")(descr ""))
+)
