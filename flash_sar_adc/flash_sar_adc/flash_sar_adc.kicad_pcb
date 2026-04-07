@@ -1021,7 +1021,7 @@
 				)
 			)
 		)
-		(property "Description" "25nA 4 SOP-14 Linear Comparators RoHS"
+		(property "Description" "5pA Four channels SOIC-14 Linear Comparators RoHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1033,7 +1033,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5236695"
+		(property "LCSC" "C22427665"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1744,7 +1744,7 @@
 				)
 			)
 		)
-		(property "Description" "25nA Four channels SOP-14 Linear Comparators RoHS"
+		(property "Description" "5pA Four channels SOIC-14 Linear Comparators RoHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6850,7 +6850,7 @@
 		(path "/92b6b891-8e81-4893-96f7-4be36f76df0a")
 		(sheetname "/")
 		(sheetfile "flash_sar_adc.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -2.1082 -2.1082)
 			(end -2.1082 2.1082)
@@ -7509,7 +7509,7 @@
 		(path "/1f8394d1-4056-49d1-83c5-624d652428a6")
 		(sheetname "/")
 		(sheetfile "flash_sar_adc.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -2.1082 -2.1082)
 			(end -2.1082 2.1082)
@@ -11175,7 +11175,7 @@
 		(path "/eb00c4b4-7f67-4f9a-a2e4-aa51baf46bc7")
 		(sheetname "/")
 		(sheetfile "flash_sar_adc.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -2.1082 -2.1082)
 			(end -2.1082 2.1082)
@@ -13707,7 +13707,7 @@
 		(path "/ecbe238a-032e-475b-b11f-72c88cfff881")
 		(sheetname "/")
 		(sheetfile "flash_sar_adc.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -2.1082 -2.1082)
 			(end -2.1082 2.1082)
