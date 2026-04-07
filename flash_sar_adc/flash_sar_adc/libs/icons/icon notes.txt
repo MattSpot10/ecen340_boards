@@ -1,0 +1,12 @@
+Used drawio to create these schematic drawings.
+
+When importing into kicad image converter use:
+
+45mm height for FLASH ADC icon.
+48mm height for SAR ADC icon.
+...
+This will bring both images to about the same scale.
+
+The drawio files are included if one would like to edit these drawings in the future.
+
+https://www.drawio.com/

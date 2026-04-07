@@ -1,0 +1,276 @@
+(footprint "CONN1_1514-2_KEY"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "1514-2 ")
+	(property "Reference" "U9"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0d49eec5-5ff7-48e4-baf6-8dc2483096ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "RH-5000"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e66504e-4cc7-43c0-81ef-1ff867c4c019")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "1514-2"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f2ed16c-141f-438b-a957-8fd83117f9f3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "KEYSTONE - 1514-2 - TERMINAL, TURRET, 0.09IN, THROUGH HOLE"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15e5165f-3a12-4734-bc71-9245e889381f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part" "C5277086"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1126030e-cf14-487f-bcf6-8c64ae9850ce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "7.14"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e59fedda-067f-463b-8821-93311ab8af3a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "534-1514-2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee19b34b-2be4-4ae2-99c2-37a5871530d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1514-2?qs=q0tsjPZWdm8tT%252BQidGxCiw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aaa2b2a5-05db-4ca9-9659-f879a69311e6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Keystone Electronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e43d722f-3d22-476d-9fc5-5e89d20a7a50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "1514-2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4be7a787-663b-4458-8f6f-1377f1e6b545")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.1082 -2.1082)
+		(end -2.1082 2.1082)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5aa81e74-cb64-4e77-a439-36a4955bbe03")
+	)
+	(fp_line
+		(start -2.1082 2.1082)
+		(end 2.1082 2.1082)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ca394acb-df4e-4394-b93e-af3c76552806")
+	)
+	(fp_line
+		(start 2.1082 -2.1082)
+		(end -2.1082 -2.1082)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "96c58fdf-23e4-4ef4-8f1f-b8ec733ec8ca")
+	)
+	(fp_line
+		(start 2.1082 2.1082)
+		(end 2.1082 -2.1082)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0d4380ea-9ee3-43e3-b26b-1abfcc648a97")
+	)
+	(fp_line
+		(start -2.2352 -2.2352)
+		(end -2.2352 2.2352)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e8218bce-9859-4625-8d67-79d1d7fba249")
+	)
+	(fp_line
+		(start -2.2352 2.2352)
+		(end 2.2352 2.2352)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "39cfd277-ee63-4228-b7c9-ec4b5ffb7bd6")
+	)
+	(fp_line
+		(start 2.2352 -2.2352)
+		(end -2.2352 -2.2352)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7267594d-3825-4b44-8cb0-c6c40ebf4f9a")
+	)
+	(fp_line
+		(start 2.2352 2.2352)
+		(end 2.2352 -2.2352)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9cf3c340-7a57-45bf-b7bf-902d404c329d")
+	)
+	(fp_line
+		(start -1.9812 -1.9812)
+		(end -1.9812 1.9812)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8801c17e-e77e-435c-a9ef-179a82211c94")
+	)
+	(fp_line
+		(start -1.9812 1.9812)
+		(end 1.9812 1.9812)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1f16cb22-01ac-4a83-ad5d-f3c4809fe29a")
+	)
+	(fp_line
+		(start 1.9812 -1.9812)
+		(end -1.9812 -1.9812)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3d4269d6-2e01-47fa-9006-a2f66d1521ff")
+	)
+	(fp_line
+		(start 1.9812 1.9812)
+		(end 1.9812 -1.9812)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e6b681dd-a4e0-418d-97ca-6f4b8ce96986")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 3.048 3.048)
+		(drill 2.54)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b227c651-2de4-4ce3-b536-3c76f498beb3")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Libs/New_test_point/1514-2/KiCad/1514-2.STEP"
+		(offset
+			(xyz 0 0 -2.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

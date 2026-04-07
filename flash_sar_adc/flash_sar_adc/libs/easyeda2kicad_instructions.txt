@@ -1,0 +1,2 @@
+easyeda2kicad --full --output="C:\Users\matts\Documents\School\Winter 2026\TA - ECEN 340\ecen340_boards\flash_sar_adc\flash_sar_adc\libs\easyeda" --lcsc_id=C19712152
+

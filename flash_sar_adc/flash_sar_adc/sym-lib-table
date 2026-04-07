@@ -4,4 +4,5 @@
   (lib (name "header")(type "KiCad")(uri "${KIPRJMOD}/libs/Basys 3 headers/header.kicad_sym")(options "")(descr ""))
   (lib (name "BNC")(type "KiCad")(uri "${KIPRJMOD}/libs/BNC/SMA-TH_BNC-KWE-18.kicad_sym")(options "")(descr ""))
   (lib (name "Test Point")(type "KiCad")(uri "${KIPRJMOD}/libs/Test Point/TESTPOINT-SMD_L3.8-W2.0_RH-5019.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda")(type "KiCad")(uri "${KIPRJMOD}/libs/easyeda.kicad_sym")(options "")(descr ""))
 )

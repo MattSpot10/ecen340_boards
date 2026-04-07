@@ -1,4 +1,4 @@
-25122471799722464
+25133116362149434
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99078,7 +99078,28 @@ screw terminal thread redcube thr power connector
 18
 1
 Test Point
+534-1514-2
+
+
+0
+1
+1
+Test Point
+CONN1_1514-2_KEY
+
+1514-2 
+0
+1
+1
+Test Point
 TESTPOINT-SMD_L3.8-W2.0_RH-5019
+
+
+0
+1
+1
+Test Point
+Untitled
 
 
 0
@@ -101100,6 +101121,27 @@ SOIC127P600X175-14N
 0
 14
 14
+easyeda
+BNC-TH_L12.0-W12.0
+
+
+0
+5
+5
+easyeda
+SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL
+
+
+0
+14
+14
+easyeda
+TEST-TH_BD2.54-P1.4_RED
+
+
+0
+1
+1
 header
 PinHeader_2x06_P2.54mm_Vertical
 Through hole straight pin header, 2x06, 2.54mm pitch, double rows

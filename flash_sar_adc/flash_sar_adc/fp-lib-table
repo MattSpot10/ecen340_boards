@@ -4,4 +4,5 @@
   (lib (name "header")(type "KiCad")(uri "${KIPRJMOD}/libs/Basys 3 headers/header.pretty")(options "")(descr ""))
   (lib (name "BNC")(type "KiCad")(uri "${KIPRJMOD}/libs/BNC")(options "")(descr ""))
   (lib (name "Test Point")(type "KiCad")(uri "${KIPRJMOD}/libs/Test Point")(options "")(descr ""))
+  (lib (name "easyeda")(type "KiCad")(uri "${KIPRJMOD}/libs/easyeda.pretty")(options "")(descr ""))
 )
