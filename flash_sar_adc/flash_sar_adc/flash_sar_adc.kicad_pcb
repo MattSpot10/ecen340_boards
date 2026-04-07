@@ -27168,6 +27168,18 @@
 			)
 		)
 	)
+	(gr_text "V1.0"
+		(at 30.675 62.3 90)
+		(layer "F.SilkS")
+		(uuid "f7547a52-4829-401d-a33e-3e2d7260dee4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "GND	GND"
 		(at 37.4 77.74 0)
 		(layer "F.SilkS")
