@@ -6740,6 +6740,21 @@
 	(rule_area
 		(polyline
 			(pts
+				(xy 146.05 16.51) (xy 177.8 16.51) (xy 177.8 97.79) (xy 146.05 97.79)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 58c8c246-621e-4ff3-bb33-8134f8f2f3c1)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
 				(xy 13.97 119.38) (xy 204.47 119.38) (xy 204.47 165.1) (xy 167.64 165.1) (xy 167.64 196.85) (xy 13.97 196.85)
 			)
 			(stroke
@@ -6749,7 +6764,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 63c9771b-6be8-4da3-8667-4bd8048a7060)
+			(uuid bc3bae5a-ccc1-4e26-8330-9ccba1666810)
 		)
 	)
 	(rule_area
@@ -6764,22 +6779,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 7f915385-63bd-425a-a22f-3765e9fc3a49)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 146.05 16.51) (xy 177.8 16.51) (xy 177.8 97.79) (xy 146.05 97.79)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid d6f96ae9-749d-4ab4-bbe8-fd598128f5d6)
+			(uuid ee9f3697-d126-44ad-92cc-2f99cb93b6f6)
 		)
 	)
 	(symbol
@@ -18154,7 +18154,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA843xDBV"
+		(property "Value" "COS8051SOT"
 			(at 157.48 151.0598 0)
 			(effects
 				(font
